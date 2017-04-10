@@ -1,0 +1,21 @@
+h2 {
+    background: rgb(66, 54, 245)
+    /*opacity: .50;*/
+    /*width: 500px;*/
+}
+.thoughts {
+    border: solid .5px black;
+    /*heigth: 800px;*/
+    width: 300px;
+    /*margin-left: 10px;*/
+    /*color: blue*/
+}
+p {
+    font-weight: bold;
+    color: blue;
+}
+
+.notes {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}

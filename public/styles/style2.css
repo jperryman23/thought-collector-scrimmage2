@@ -1,0 +1,15 @@
+h2 {
+    background: rgb(111, 236, 32)
+    /*opacity: .50;*/
+}
+
+label {
+    font-weight: bold;
+    color: rgb(7, 143, 179)
+
+}
+
+p {
+    font-size: 15px;
+    font-weight: bold;
+}
